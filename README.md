@@ -255,7 +255,7 @@ _Foto: juuni 1993._
 * [Heade Mõtete Linn](heade-motete-linn.md)
 * [Hingepuu](hingepuu.md)
 * [Lumeta](lumeta.md)
-* [Vana Halli vastu](vana-halli-vastu.md) \(viisistatud, [Eastwinds: "The Gift"](https://eastwinds.bandcamp.com/track/the-gift-2)\)
+* [Vana Halli vastu](vana-halli-vastu.md) \(viisistatud, \[Eastwinds: "The Gift"\]\([https://eastwinds.bandcamp.com/track/the-gift-2\)\](https://eastwinds.bandcamp.com/track/the-gift-2%29\)\)
 * [Igavesti](igavesti.md)
 * [Ikka oodates](ikka-oodates.md)
 
