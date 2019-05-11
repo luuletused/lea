@@ -1,6 +1,6 @@
 # Sissejuhatus
 
-Luuletuste autor on Lea Tabur. Kogumik on alla laetav [PDF](https://www.gitbook.com/download/pdf/book/luule/lea-luuletused), [Mobi](https://www.gitbook.com/download/mobi/book/luule/lea-luuletused) ja [ePub](https://www.gitbook.com/download/epub/book/luule/lea-luuletused) formaadis.
+Luuletuste autor on Lea Tabur.
 
 ![](.gitbook/assets/lea-tabur.png)
 
