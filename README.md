@@ -2,9 +2,13 @@
 
 Luuletuste autor on Lea Tabur.
 
-![](.gitbook/assets/lea-tabur.png)
+![Lea Tabur](.gitbook/assets/lea-tabur.png)
 
 _Foto: juuni 1993._
+
+## 1969
+
+* [Märtsituul](martsituul.md)
 
 ## 1986
 
@@ -277,4 +281,3 @@ _Foto: juuni 1993._
 ## 2016
 
 * [Vaikuse ime](vaikuse-ime.md)
-
